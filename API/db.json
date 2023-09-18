@@ -1,25 +1,177 @@
 {
     "CD Afspillere": [
-        
+        {
+            "id": 1,
+            "name": "Exp 2010S CD",
+            "manufacturer": "Exp"
+        },{
+            "id": 2,
+            "name": "Creek Destiny CD",
+            "manufacturer": "Creek"
+        },{
+            "id": 3,
+            "name": "Creek Classic cd",
+            "manufacturer": "Creek"
+        },{
+            "id": 4,
+            "name": "Creek evo cd",
+            "manufacturer": "Creek"
+        }
     ],
     
     "DVD Afspillere": [
-        
+        {
+            "id": 1,
+            "name": "Creek Classic",
+            "manufacturer": "Creek"
+        },{
+            "id": 2,
+            "name": "Exposure 2010S",
+            "manufacturer": "Exposure"
+        },{
+            "id": 3,
+            "name": "parasound d200",
+            "manufacturer": "Parasound"
+        },{
+            "id": 4,
+            "name": "parasound halod3",
+            "manufacturer": "Parasound"
+        }
     ],
 
     "Effektforstærkere": [
-        
+        {
+            "id": 1,
+            "name": "Manley mahi",
+            "manufacturer": "Manley"
+        },{
+            "id": 2,
+            "name": "Manley neoclassic300b",
+            "manufacturer": "Manley"
+        },{
+            "id": 3,
+            "name": "Manley snapper",
+            "manufacturer": "Manley"
+        },{
+            "id": 4,
+            "name": "parasound haloa23",
+            "manufacturer": "Parasound"
+        }
     ],
     
     "Forforstærkere": [
-        
+        {
+            "id": 1,
+            "name": "Creek OBH 22 Passive_Preamp",
+            "manufacturer": "Creek"
+        },{
+            "id": 2,
+            "name": "Project_prebox",
+            "manufacturer": "Project"
+        },{
+            "id": 3,
+            "name": "parasound_classic7100",
+            "manufacturer": "Parasound"
+        },{
+            "id": 4,
+            "name": "parasound haloa23",
+            "manufacturer": "Parasound"
+        }
     ],
     
     "Højtalere": [
-        
+        {
+            "id": 1,
+            "name": "boesendorfer_vcs_wall",
+            "manufacturer": "boesendorfer"
+        },{
+            "id": 2,
+            "name": "epos_m5",
+            "manufacturer": "Epos"
+        },{
+            "id": 3,
+            "name": "harbeth_hl7es2",
+            "manufacturer": "Harbeth"
+        },{
+            "id": 4,
+            "name": "harbeth_monitor30",
+            "manufacturer": "Harbeth"
+        },{
+            "id": 5,
+            "name": "harbeth_p3es2",
+            "manufacturer": "Harbeth"
+        }
     ],
     
-    "Int. forstærkere": [
-        
+    "Int forstærkere": [
+        {
+            "id": 1,
+            "name": "Manley Stingray",
+            "manufacturer": "Manley"
+        },{
+            "id": 2,
+            "name": "creek a50I",
+            "manufacturer": "Creek"
+        },{
+            "id": 3,
+            "name": "creek classic5350SE",
+            "manufacturer": "Creek"
+        },{
+            "id": 4,
+            "name": "creek destinyamp",
+            "manufacturer": "Creek"
+        },{
+            "id": 5,
+            "name": "manley_snapper",
+            "manufacturer": "Manley"
+        }
+    ],
+
+    "Pladespillere": [
+        {
+            "id": 1,
+            "name": "Pro_ject_Debut_3_bl",
+            "manufacturer": "Pro ject"
+        },{
+            "id": 2,
+            "name": "Pro_ject_Debut_III_red",
+            "manufacturer": "Pro ject"
+        },{
+            "id": 3,
+            "name": "Pro_ject_Debut_III_yellow",
+            "manufacturer": "Pro ject"
+        },{
+            "id": 4,
+            "name": "Pro_ject_rpm10",
+            "manufacturer": "Pro ject"
+        },{
+            "id": 5,
+            "name": "Pro_ject_rpm_5",
+            "manufacturer": "Pro ject"
+        }
+    ],    
+    
+    "Roer forstærker": [
+        {
+            "id": 1,
+            "name": "jolida_JD102b",
+            "manufacturer": "Jolida"
+        },{
+            "id": 2,
+            "name": "jolida_JD202a",
+            "manufacturer": "Jolida"
+        },{
+            "id": 3,
+            "name": "jolida_JD300b",
+            "manufacturer": "Jolida"
+        },{
+            "id": 4,
+            "name": "jolida_JD302b",
+            "manufacturer": "Jolida"
+        },{
+            "id": 5,
+            "name": "jolida_JD502b",
+            "manufacturer": "Jolida"
+        }
     ]
 }
