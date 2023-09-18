@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+  }
+
+#wrapper{
+    justify-content: center;
+    display: grid;
+}
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+}
+
+.gallery img{
+    border-style: solid;
+
+}
+
+.gallery div{
+    width: 230px;
+    height: 230px;
+    display: grid;
+}
+
+.gallery a{
+    position: absolute;
+    justify-self: center;
+    align-self: center;
+    color: white;
+}
