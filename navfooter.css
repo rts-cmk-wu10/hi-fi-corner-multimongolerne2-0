@@ -1,0 +1,93 @@
+@font-face {
+    font-family: Museo;
+    src: url(./museo-sans-rounded/MuseoSansRounded500.otf);
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* NAV */
+  
+  nav {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    height: 67px;
+    justify-content: space-between;
+    justify-content: center;
+    list-style: none;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 12 px;
+    font-family: Museo;
+  }
+  
+  nav ul {
+    display: flex;
+  }
+  
+  nav li {
+    padding: 1.5em;
+  }
+  
+  nav li :hover {
+    color: #A39161;
+  }
+  
+  nav li:first-child {
+    padding-left: 0;
+  }
+
+
+  /* FOOTER */
+
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+    height: 74px;
+    background: #A39161;
+    padding: 0 20px;
+  }
+  
+  .footer_address {
+    font-size: 10px;
+    color: #000000;
+    line-height: 1.2;
+    font-weight: 700;
+  }
+  
+  .footer_links {
+    font-size: 14px;
+  }
+  
+  .footer_links a {
+    color: #fff;
+    text-decoration: underline;
+  }
+  
+  .footer_links .pipe {
+    padding: 0px;
+    color: #fff;
+  
+  }
+  
+  
+  .footer_social {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer_social img {
+    max-width: 30%;
+    margin-left: auto;
+  }

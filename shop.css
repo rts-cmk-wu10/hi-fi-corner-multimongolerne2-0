@@ -1,35 +1,84 @@
-body{
+@font-face {
+    font-family: Museo;
+    src: url(./museo-sans-rounded/MuseoSansRounded500.otf);
+}
+
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     background-color: black;
-  }
+    font-family: "museo";
+}
 
-#wrapper{
+#wrapper {
     justify-content: center;
     display: grid;
 }
 
-.gallery{
+.gallery {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(4, 1fr);
 }
 
-.gallery img{
-    border-style: solid;
-
+.gallery img {
+    width: 230px;
+    height: 230px;
+    filter: brightness(110%) opacity(0.5) drop-shadow(0 0 rgba(193, 142, 23, 0.767));
 }
 
-.gallery div{
+.gallery div {
     width: 230px;
     height: 230px;
     display: grid;
 }
 
-.gallery a{
+.gallery a {
+    align-self: center;
+    font-size: 20px;
+    text-align: center;
+    display: grid;
+    transition: transform .2s;
+
+}
+
+.gallery span {
     position: absolute;
+    z-index: 1;
+    color: white;
     justify-self: center;
     align-self: center;
-    color: white;
+    text-decoration: underline;
+
+}
+
+.outlet img {
+    filter: brightness(180%) opacity(0.4) drop-shadow(0 0 rgb(255, 21, 21));
+}
+
+.gallery a:hover {
+    transform: scale(1.1);
+    z-index: 1;
+}
+
+.gallery a:hover img {
+    filter: opacity(1) drop-shadow(0 0 rgba(139, 106, 29, 0.767));
+}
+
+.shopnow {
+    background-color: #A39161;
+}
+
+.shopnow span {
+    background-color: rgba(71, 40, 0, 0.598);
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    .gallery {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(4, 1fr);
+    }
 }
