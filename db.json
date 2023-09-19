@@ -1,5 +1,5 @@
 {
-    "CD Afspillere": [
+    "cd-afspillere": [
         {
             "id": 1,
             "name": "Exp 2010S CD",
@@ -19,7 +19,7 @@
         }
     ],
     
-    "DVD Afspillere": [
+    "dvd-afspillere": [
         {
             "id": 1,
             "name": "Creek Classic",
@@ -39,7 +39,7 @@
         }
     ],
 
-    "Effektforstærkere": [
+    "effektforstaerkere": [
         {
             "id": 1,
             "name": "Manley mahi",
@@ -59,7 +59,7 @@
         }
     ],
     
-    "Forforstærkere": [
+    "forforstaerkere": [
         {
             "id": 1,
             "name": "Creek OBH 22 Passive_Preamp",
@@ -79,7 +79,7 @@
         }
     ],
     
-    "Højtalere": [
+    "Hoejtalere": [
         {
             "id": 1,
             "name": "boesendorfer_vcs_wall",
@@ -103,7 +103,7 @@
         }
     ],
     
-    "Int forstærkere": [
+    "int-forstaerkere": [
         {
             "id": 1,
             "name": "Manley Stingray",
@@ -151,7 +151,7 @@
         }
     ],    
     
-    "Roer forstærker": [
+    "Roer-forstaerker": [
         {
             "id": 1,
             "name": "jolida_JD102b",
