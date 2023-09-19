@@ -5,965 +5,1310 @@
             "name": "Exp 2010S CD",
             "manufacturer": "Exp",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-      
-            "warranty": "3 years",
-            "manufacturer-link": "Exp 2010S CD",
-            "price": "£427,00",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "warranty": "3 years",
+                    "manufacturer-link": "Exp 2010S CD",
+                    "price": "£427,00",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "Creek Destiny CD",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-
-            "manufacturer": "Creek",
-            "manufacturer-link": "Creek Destiny CD",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Creek",
+                    "manufacturer-link": "Creek Destiny CD",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "Creek Classic cd",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-
-            "manufacturer": "Creek",
-            "manufacturer-link": "Creek Classic cd",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Creek",
+                    "manufacturer-link": "Creek Classic cd",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "Creek evo cd",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-
-            "manufacturer": "Creek",
-            "manufacturer-link": "Creek evo cd",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Creek",
+                    "manufacturer-link": "Creek evo cd",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ],
-    
     "dvd-afspillere": [
         {
             "id": 1,
             "name": "Creek Classic",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Creek",
-            "manufacturer-link": "Creek Classic cd",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Creek",
+                    "manufacturer-link": "Creek Classic cd",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "Exposure 2010S",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Exposure",
-            "manufacturer-link": "Exposure 2010S",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Exposure",
+                    "manufacturer-link": "Exposure 2010S",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "parasound d200",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "parasound",
-            "manufacturer-link": "parasound d200",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "parasound",
+                    "manufacturer-link": "parasound d200",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "parasound halod3",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "parasound",
-            "manufacturer-link": "parasound halod3",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "parasound",
+                    "manufacturer-link": "parasound halod3",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ],
-
     "effektforstaerkere": [
         {
             "id": 1,
             "name": "Manley mahi",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Manley",
-            "manufacturer-link": "Manley mahi",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Manley",
+                    "manufacturer-link": "Manley mahi",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "Manley neoclassic300b",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Manley",
-            "manufacturer-link": "Manley neoclassic300b",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Manley",
+                    "manufacturer-link": "Manley neoclassic300b",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "Manley snapper",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Manley",
-            "manufacturer-link": "Manley snapper",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Manley",
+                    "manufacturer-link": "Manley snapper",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "parasound haloa23",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "parasound",
-            "manufacturer-link": "parasound haloa23",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "parasound",
+                    "manufacturer-link": "parasound haloa23",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ],
-    
     "forforstaerkere": [
         {
             "id": 1,
             "name": "Creek OBH 22 Passive_Preamp",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Creek",
-            "manufacturer-link": "Creek OBH 22 Passive_Preamp",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Creek",
+                    "manufacturer-link": "Creek OBH 22 Passive_Preamp",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "Project_prebox",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Project",
-            "manufacturer-link": "Project_prebox",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Project",
+                    "manufacturer-link": "Project_prebox",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "parasound_classic7100",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "parasound",
-            "manufacturer-link": "parasound_classic7100",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "parasound",
+                    "manufacturer-link": "parasound_classic7100",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "parasound haloa23",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "parasound",
-            "manufacturer-link": "parasound haloa23",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "parasound",
+                    "manufacturer-link": "parasound haloa23",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ],
-    
     "Hoejtalere": [
         {
             "id": 1,
             "name": "boesendorfer_vcs_wall",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "boesendorfer",
-            "manufacturer-link": "boesendorfer_vcs_wall",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "boesendorfer",
+                    "manufacturer-link": "boesendorfer_vcs_wall",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "epos_m5",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "epos",
-            "manufacturer-link": "epos_m5",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "epos",
+                    "manufacturer-link": "epos_m5",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "harbeth_hl7es2",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "harbeth",
-            "manufacturer-link": "harbeth_hl7es2",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "harbeth",
+                    "manufacturer-link": "harbeth_hl7es2",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "harbeth_monitor30",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "harbeth",
-            "manufacturer-link": "harbeth_monitor30",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "harbeth",
+                    "manufacturer-link": "harbeth_monitor30",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 5,
             "name": "harbeth_p3es2",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "harbeth",
-            "manufacturer-link": "harbeth_p3es2",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "harbeth",
+                    "manufacturer-link": "harbeth_p3es2",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ],
-    
     "int-forstaerkere": [
         {
             "id": 1,
             "name": "Manley Stingray",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Manley",
-            "manufacturer-link": "Manley Stingray",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Manley",
+                    "manufacturer-link": "Manley Stingray",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "creek a50I",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "creek",
-            "manufacturer-link": "creek a50I",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "creek",
+                    "manufacturer-link": "creek a50I",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "creek classic5350SE",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "creek",
-            "manufacturer-link": "creek classic5350SE",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "creek",
+                    "manufacturer-link": "creek classic5350SE",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "creek destinyamp",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Creek",
-            "manufacturer-link": "creek destinyamp",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Creek",
+                    "manufacturer-link": "creek destinyamp",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 5,
             "name": "manley_snapper",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "manley",
-            "manufacturer-link": "manley_snapper",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "manley",
+                    "manufacturer-link": "manley_snapper",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ],
-
     "Pladespillere": [
         {
             "id": 1,
             "name": "Pro_ject_Debut_3_bl",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Pro_ject",
-            "manufacturer-link": "Pro_ject_Debut_3_bl",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Pro_ject",
+                    "manufacturer-link": "Pro_ject_Debut_3_bl",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "Pro_ject_Debut_III_red",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Pro_ject",
-            "manufacturer-link": "Pro_ject_Debut_III_red",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Pro_ject",
+                    "manufacturer-link": "Pro_ject_Debut_III_red",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "Pro_ject_Debut_III_yellow",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Pro_ject",
-            "manufacturer-link": "Pro_ject_Debut_III_yellow",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Pro_ject",
+                    "manufacturer-link": "Pro_ject_Debut_III_yellow",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "Pro_ject_rpm10",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Pro_ject",
-            "manufacturer-link": "Pro_ject_rpm10",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Pro_ject",
+                    "manufacturer-link": "Pro_ject_rpm10",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 5,
             "name": "Pro_ject_rpm_5",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "Pro_ject",
-            "manufacturer-link": "Pro_ject_rpm_5",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "Pro_ject",
+                    "manufacturer-link": "Pro_ject_rpm_5",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
-    ],    
-    
+    ],
     "Roer-forstaerker": [
         {
             "id": 1,
             "name": "jolida_JD102b",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "jolida",
-            "manufacturer-link": "jolida_JD102b",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "jolida",
+                    "manufacturer-link": "jolida_JD102b",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 2,
             "name": "jolida_JD202a",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "jolida",
-            "manufacturer-link": "jolida_JD202a",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "jolida",
+                    "manufacturer-link": "jolida_JD202a",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 3,
             "name": "jolida_JD300b",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "jolida",
-            "manufacturer-link": "jolida_JD300b",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "jolida",
+                    "manufacturer-link": "jolida_JD300b",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 4,
             "name": "jolida_JD302b",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "jolida",
-            "manufacturer-link": "jolida_JD302b",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
-        },{
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "jolida",
+                    "manufacturer-link": "jolida_JD302b",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
+        },
+        {
             "id": 5,
             "name": "jolida_JD502b",
             "price": "£427,00",
             "product-description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse error magnam nesciunt nulla quis. Iure voluptate placeat, ex aut expedita nobis sunt et aperiam! Aperiam, eum nam! Optio, temporibus atque!",
-            "color": ["black", "silver"],
-            
-            "manufacturer": "jolida",
-            "manufacturer-link": "jolida_JD502b",
-            "warranty": "3 years",
-            "delivery-charge": "Free",
-            "delivery-time": "1-5 Working Days",
-            "card-surcharges": "No",
-
-            "power-output": "45W / 60W",
-            "frequency-response": "X",
-            "total-harmonic-distortion": "0,0%",
-            "damping-factor": "100",
-            "input-sensitivity-mm": "2.2mV / 47kOhm",
-            "input-sensitivity-mc": "X",
-            "signal-to-noise-ratio-mm-mc": "83 dB",
-            "input-sensitivity-high-level": "200mV /20kOhm",
-            "input-sensitivity-balanced-level": "X",
-            "signal-to-noise-ratio-high-level": "102dB(2V input",
-            "input-sensitivity-power-amp-direct-in": "X",
-            "signal-to-noise-ratio-power-amp-direct-in": "X"
+            "color": [
+                "black",
+                "silver"
+            ],
+            "additional-information": [
+                {
+                    "manufacturer": "jolida",
+                    "manufacturer-link": "jolida_JD502b",
+                    "warranty": "3 years",
+                    "delivery-charge": "Free",
+                    "delivery-time": "1-5 Working Days",
+                    "card-surcharges": "No"
+                }
+            ],
+            "description": [
+                {
+                    "power-output": "45W / 60W",
+                    "frequency-response": "X",
+                    "total-harmonic-distortion": "0,0%",
+                    "damping-factor": "100",
+                    "input-sensitivity-mm": "2.2mV / 47kOhm",
+                    "input-sensitivity-mc": "X",
+                    "signal-to-noise-ratio-mm-mc": "83 dB",
+                    "input-sensitivity-high-level": "200mV /20kOhm",
+                    "input-sensitivity-balanced-level": "X",
+                    "signal-to-noise-ratio-high-level": "102dB(2V input",
+                    "input-sensitivity-power-amp-direct-in": "X",
+                    "signal-to-noise-ratio-power-amp-direct-in": "X"
+                }
+            ]
         }
     ]
 }
