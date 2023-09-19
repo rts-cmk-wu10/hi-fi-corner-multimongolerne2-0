@@ -16,6 +16,7 @@ nav {
   display: flex;
   align-items: center;
   height: 67px;
+
   justify-content: space-between;
   justify-content: center;
   list-style: none;
@@ -44,11 +45,23 @@ nav li:first-child {
   padding-left: 0;
 }
 
+.hero1 {
+  display: flex;
+  background-image: url(img/8.jpg);
+  height: 600px;
+  width: 1903px;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+  text-align: center;
+  font-family: Museo;
+}
 
 .hero2 {
   display: flex;
   background-image: url(img/bruno-cervera-dtqlaz4HyHw-unsplash\(1\).jpg);
-  width: 1915px;
+
   height: 453px;
   color: #fff;
   justify-content: center;
@@ -66,6 +79,43 @@ nav li:first-child {
   grid-template-rows: 1fr;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  background-color: #111111;
+  height: 350px;
+  padding: 0px 300px 0px 300px;
+}
+
+.cards {
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  align-items: center;
+  font-size: 17px;
+  text-align: center;
+  font-family: Museo;
+  color: white;
+
+}
+
+.cards p {
+  padding-top: 10px;
+}
+
+.cards button {
+  border-color: white;
+  padding: 5px 25px 5px 25px;
+  background: none;
+  cursor: pointer;
+  color: #af995c;
+  font-size: 30px;
 }
 
 .socialv1,
@@ -110,6 +160,10 @@ a:hover {
   text-decoration: none;
 }
 
+.footer_social a:hover {
+  color: #625a41;
+}
+
 
 
 /* FOOTER */
@@ -147,6 +201,14 @@ footer {
 
 }
 
+.socials {
+  padding: 5px;
+}
+
+
+
+
+
 
 .footer_social {
   margin-left: auto;
@@ -161,7 +223,7 @@ footer {
 
 .slider-container {
   position: relative;
-  width: 1920px;
+
   height: 665px;
   overflow: hidden;
 }
