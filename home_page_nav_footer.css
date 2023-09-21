@@ -11,38 +11,88 @@
 
 /* NAV */
 
-nav {
-  background-color: black;
-  display: flex;
-  align-items: center;
-  height: 67px;
-
-  justify-content: space-between;
-  justify-content: center;
-  list-style: none;
+.topnav {
+  overflow: hidden;
+  background-color: #000000;
+  padding-top: 20px;
 }
 
-nav a {
+.topnav i{
+  float: right;
+}
+
+.left a,
+img {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.topnav a {
+
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  
   color: white;
   text-decoration: none;
   font-size: 12 px;
   font-family: Museo;
 }
 
-nav ul {
+/* Change the color of links on hover */
+.topnav a:hover {}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {}
+
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+
+.mainNav {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  height: 67px;
+  justify-content: space-between;
+  justify-content: center;
+  list-style: none;
+}
+
+.mainNav a {
+  color: white;
+  text-decoration: none;
+  font-size: 12 px;
+  font-family: Museo;
+}
+
+.mainNav ul {
   display: flex;
 }
 
-nav li {
+.mainNav li {
   padding: 1.5em;
 }
 
-nav li :hover {
+.mainNav li :hover {
   color: #A39161;
 }
 
-nav li:first-child {
+.mainNav li:first-child {
   padding-left: 0;
+}
+
+.hero1 img{
+  width: 300px;
 }
 
 .hero1 {
@@ -60,8 +110,7 @@ nav li:first-child {
 
 .hero2 {
   display: flex;
-  background-image: url(img/bruno-cervera-dtqlaz4HyHw-unsplash\(1\).jpg);
-
+  background-image: url(img/chris-panas-UeITqYE-Xxw-unsplash\(1\).jpg);
   height: 453px;
   color: #fff;
   justify-content: center;
@@ -164,10 +213,7 @@ a:hover {
   color: #625a41;
 }
 
-
-
 /* FOOTER */
-
 
 footer {
   display: flex;
@@ -204,11 +250,6 @@ footer {
 .socials {
   padding: 5px;
 }
-
-
-
-
-
 
 .footer_social {
   margin-left: auto;
