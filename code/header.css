@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu__icon{
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    background: black;
+    height: 50px;
+    border-bottom: solid white;
+}
+
+.menu{
+    position: sticky;
+    z-index: 999;
+    top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background: black;
+    height: 50px;
+}
+
+li, a, .menu__list, p{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.menu__list{
+    color: white;
+}
+
+.brands__container{
+    display: flex;
+    padding: 2rem;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+    align-items: center;
+    height: 40vh;
+}
+
+.hifibox{
+    width: 130px;
+    height: 130px;
+    border: 2px solid white;
+    font-size: 30px;
+}
+
+.topBrands, .hificorner{
+    color: white;
+
+}
+
+.container{
+    background-image: url(https://www.ricable.com/wp-content/uploads/2019/11/light-567759_1920-e1574431494118.jpg);
+    border-bottom:solid whitesmoke;
+}
+
+.blackBox{
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 1rem;
+}
+
+.logo{
+    height: 40px;
+    width: 200px;
+    background-size: contain;
+    object-fit: contain;
+}
+
+.collab__brands, .brands{
+    background-color: black;
+    width: 50%;
+    height: 400px;
+    padding: 1rem;
+}
+
+.collab__brands{
+    background-color: #18181B;
+}
+
+.moreBrands, h3, h1{
+    color: rgb(125, 125, 15);
+}
+
+.brands__p{
+    color: white;
+}
+
+.hificorner{
+    color: white;
+}
