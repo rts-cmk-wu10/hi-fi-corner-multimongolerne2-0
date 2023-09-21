@@ -3,6 +3,10 @@
   src: url(./museo-sans-rounded/MuseoSansRounded500.otf);
 }
 
+#wrapper {
+  max-width: 1920px;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -17,7 +21,7 @@
   padding-top: 20px;
 }
 
-.topnav i{
+.topnav i {
   float: right;
 }
 
@@ -35,7 +39,7 @@ img {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  
+
   color: white;
   text-decoration: none;
   font-size: 12 px;
@@ -91,7 +95,7 @@ img {
   padding-left: 0;
 }
 
-.hero1 img{
+.hero1 img {
   width: 300px;
 }
 
@@ -99,7 +103,7 @@ img {
   display: flex;
   background-image: url(img/8.jpg);
   height: 600px;
-  width: 1903px;
+  
   color: #fff;
   justify-content: center;
   align-items: center;
