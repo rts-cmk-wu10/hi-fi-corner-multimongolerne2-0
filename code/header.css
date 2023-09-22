@@ -20,6 +20,23 @@
     border-bottom: solid white;
 }
 
+.menu__icon2{
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    background: black;
+    height: 50px;
+    border-bottom: solid white;
+    display: none;
+}
+
 .menu{
     position: sticky;
     z-index: 999;
@@ -33,6 +50,10 @@
     gap: 1rem;
     background: black;
     height: 50px;
+}
+
+.menu__list:hover{
+    color: rgb(125, 125, 15);
 }
 
 li, a, .menu__list, p{
