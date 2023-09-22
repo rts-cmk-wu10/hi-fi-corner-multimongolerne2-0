@@ -7,27 +7,26 @@
     <link rel="stylesheet" href="home_page_nav_footer.css">
     <script src="https://kit.fontawesome.com/5f15ab74b5.js" crossorigin="anonymous"></script>
     <script src="gallery.js" defer></script>
+    <link rel="stylesheet" href="slider.css">
+    <script src="slider.js" defer></script>
+    <script src="hover.js" defer></script>
     <title>Hi-Fi Corner | HOME</title>
 </head>
 
 <body>
     <header>
-
         <div class="topnav">
             <a class="left" href=""><img src="https://www.hificorner.co.uk/wp-content/uploads/2023/05/logo_sml.gif"
                     alt=""></a>
-            <a href=""><i class="fa-regular fa-user" style="color: #ffffff;"></i></a>
-            <a href=""><i class="fa-regular fa-user" style="color: #ffffff;"></i></a>
-            <a href=""><i class="fa-regular fa-user" style="color: #ffffff;"></i></a>
-
-
+            <i class="fa-solid fa-envelope"></i>
+            <i class="fa-solid fa-phone"></i>
+            <i class="fa-solid fa-location-arrow"></i>
             <a class="right" href="#about">CART</a>
-            <i class="fa-regular fa-user" style="color: #ffffff;"></i>
+            <i class="fa-solid fa-cart-shopping"></i>
             <a class="right" href="#home">ACCOUNT</a>
-            <i class="fa-regular fa-user" style="color: #ffffff;"></i>
-            <input type="text" placeholder="Search..">
+            <i class="fa-solid fa-user"></i>
+            <input type="text" placeholder="Search entire store here...">
         </div>
-
         <nav class="mainNav">
             <ul>
                 <li><a data-text="HOME" href="#">HOME</a></li>
@@ -35,7 +34,7 @@
                 <li><a data-text="BRANDS" href="#">BRANDS</a></li>
                 <li><a data-text="BLOG" href="#">BLOG</a></li>
                 <li><a data-text="EVENTS" href="#">EVENTS</a></li>
-                <li><a data-text="SHOP" href="#">SHOP</a></li>¨
+                <li><a data-text="SHOP" href="#">SHOP</a></li>
                 <li><a data-text="CONTACT US" href="#">CONTACT US</a></li>
             </ul>
         </nav>
@@ -43,78 +42,93 @@
 
     <main>
         <div id="wrapper">
-        <div class="hero1">
-            <img src="img/Logo.png" alt="">
-        </div>
-        <div class="hero2">
-            <p>OUR EDINBURGH SHOWROOM HAS NOW MOVED <br> TO STUNNING NEW PREMISES ON JOPPA ROAD</p>
-        </div>
+            <div class="hero1">
+                <a href=""></a><img src="img/Logo.png" alt="">
+            </div>
+            <div class="hero2">
+                <p>OUR EDINBURGH SHOWROOM HAS NOW MOVED <br> TO STUNNING NEW PREMISES ON JOPPA ROAD</p>
+            </div>
+            <div class="slider-container">
+                <div class="slider-slide active">
+                    <img src="img/sliderimgs/1.jpg" alt="Image 1">
+                    <p class="caption-text caption1">PRIMALUNA<br>SOUNDS</p>
+                </div>
+                <div class="slider-slide">
+                    <img src="img/sliderimgs/2.jpg" alt="Image 2">
+                    <p class="caption-text caption2"> CHORD <br>ELECTRONICS</p>
+                </div>
+                <div class="slider-slide">
+                    <img src="img/sliderimgs/3.jpg" alt="Image 3">
+                    <p class="caption-text caption3">NAIM SOUND<br>SYSTEM</p>
+                </div>
+                <div class="slider-slide">
+                    <img src="img/sliderimgs/4.jpg" alt="Image 4">
+                    <p class="caption-text caption4">TECHNICS<br>TURNTABLES</p>
+                </div>
+                <a class="slider-prev" href="#"><img class="arrowLeft" src="img/left-arrow.png" alt=""></a>
+                <a class="slider-next" href="#"><img class="arrowRight" src="img/arrow-right.png" alt=""></a>
+            </div>
 
-        <div class="slider-container">
-            <button class="prev-button"><img src="img/left-arrow.png" alt=""></button>
-            <div class="slider">
-                <img class="slide" src="img/3.jpg" alt="Image 1">
-                <img class="slide" src="img/1.jpg" alt="Image 2">
-                <img class="slide" src="img/4.jpg" alt="Image 3">
-                <img class="slide" src="img/2.jpg" alt="Image 4">
-            </div>
-            <button class="next-button"><img src="img/arrow-right.png" alt=""></button>
-        </div>
 
-        <div class="grid">
-            <div class="socialv1">
-                <a href="https://www.facebook.com/HiFiCorner"><i class="fa-brands fa-facebook"></i></a>
+            <div class="grid">
+                <div class="socialv1">
+                    <a href="https://www.facebook.com/HiFiCorner"><i class="fa-brands fa-facebook"></i></a>
+                </div>
+                <div class="socialv2">
+                    <a href="https://www.blogger.com/about/?bpli=1"><i class="fa-brands fa-blogger"></i></a>
+                </div>
+                <div class="socialv3">
+                    <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhifi_corner"><i
+                            class="fa-brands fa-square-x-twitter"></i></a>
+                </div>
             </div>
-            <div class="socialv2">
-                <a href="https://www.blogger.com/about/?bpli=1"><i class="fa-brands fa-blogger"></i></a>
-            </div>
-            <div class="socialv3">
-                <a href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhifi_corner"><i
-                        class="fa-brands fa-square-x-twitter"></i></a>
-            </div>
-        </div>
 
-        <div class="grid2">
-            <div class="cards">
-                <button>HISTORY</button>
-                <p>Established in the late 1960s, our <br> family owned business is based in <br> Edinburgh and Falkirk,
-                    servicing <br> customers across the UK.</p>
-            </div>
-            <div class="cards">
-                <button>NEWS</button>
-                <p>Check out our latest news<br>stories for all the up to date Hi-<br>Fi Corner products and <br>
-                    launches.</p>
-            </div>
-            <div class="cards">
-                <button>SHOP</button>
-                <p>Have a look in our online shop<br>for great products and deals.</p>
+            <div class="grid2">
+                <div class="cards">
+                    <button>HISTORY</button>
+                    <p>Established in the late 1960s, our <br> family owned business is based in <br> Edinburgh and
+                        Falkirk,
+                        servicing <br> customers across the UK.</p>
+                </div>
+                <div class="cards">
+                    <button>NEWS</button>
+                    <p>Check out our latest news<br>stories for all the up to date Hi-<br>Fi Corner products and <br>
+                        launches.</p>
+                </div>
+                <div class="cards">
+                    <button>SHOP</button>
+                    <p>Have a look in our online shop<br>for great products and deals.</p>
+                </div>
             </div>
         </div>
     </main>
-</div>
+
+    <footer>
+        <div class="footer_address">
+            Hi-Fi Corner
+            <br>
+            Edinburgh 1a Haddington Place EH7 4AE
+            <br>
+            Falkirk 44 Cow Wynd FK1 1PU
+        </div>
+        <div class="footer_links">
+            <a href="#">Returns & Refunds</a>
+            <span class="pipe">| </span>
+            <a href="#">Privacy Policy</a>
+        </div>
+        <div class="footer_social">
+            <img src="img/payments.png" alt="">
+            <a class="socials" href="https://www.facebook.com/HiFiCorner"><i class="fa-brands fa-facebook-f"></i></a>
+            <a class="socials" href="https://www.youtube.com/@hi-ficorner?cbrd=1"><i
+                    class="fa-brands fa-youtube"></i></a>
+            <a class="socials" href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhifi_corner"><i
+                    class="fa-brands fa-x-twitter"></i></a>
+            <a class="socials" href="https://www.instagram.com/hifi_corner/"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+    </footer>
+
 </body>
 
-<footer>
-    <div class="footer_address">
-        Hi-Fi Corner
-        <br>
-        Edinburgh 1a Haddington Place EH7 4AE
-        <br>
-        Falkirk 44 Cow Wynd FK1 1PU
-    </div>
-    <div class="footer_links">
-        <a href="#">Returns & Refunds</a>
-        <span class="pipe">|</span>
-        <a href="#">Privacy Policy</a>
-    </div>
-    <div class="footer_social">
-        <img src="img/payments.png" alt="">
-        <a class="socials" href="https://www.facebook.com/HiFiCorner"><i class="fa-brands fa-facebook-f"></i></a>
-        <a class="socials" href="https://www.youtube.com/@hi-ficorner?cbrd=1"><i class="fa-brands fa-youtube"></i></a>
-        <a class="socials" href="https://twitter.com/i/flow/login?redirect_after_login=%2Fhifi_corner"><i
-                class="fa-brands fa-x-twitter"></i></a>
-        <a class="socials" href="https://www.instagram.com/hifi_corner/"><i class="fa-brands fa-instagram"></i></a>
-    </div>
-</footer>
+
 
 </html>

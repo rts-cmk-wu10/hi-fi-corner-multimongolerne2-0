@@ -1,3 +1,4 @@
+/*
 const slider = document.querySelector('.slider');
 const prevButton = document.querySelector('.prev-button');
 const nextButton = document.querySelector('.next-button');
@@ -20,4 +21,4 @@ function updateSlider() {
   const transformValue = `translateX(${-currentIndex * slideWidth}px)`;
 
   slider.style.transform = transformValue;
-};
+}; */
