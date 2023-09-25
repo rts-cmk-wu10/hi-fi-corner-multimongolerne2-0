@@ -1,3 +1,9 @@
+.product__img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
 .slider-container {
     position: relative;
     height: 664px;
