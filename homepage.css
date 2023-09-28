@@ -9,7 +9,6 @@
 }
 
 
-
 header {
   position: absolute;
   width: 100%;
@@ -25,7 +24,7 @@ header {
   box-sizing: border-box;
 }
 
-/* NAV */
+/* NAV--------------------------------------------------------------------- */
 
 .topnav {
   justify-content: flex-end;
@@ -38,10 +37,9 @@ header {
   border-bottom: #9e8d5f2c;
   border-style: solid;
   border-width: 2px;
+  padding-right: 20px;
 
 }
-
-
 
 .topnav a {
 
@@ -53,8 +51,6 @@ header {
   font-size: 12 px;
   font-family: Museo;
 }
-
-
 
 .topnav input[type=text] {
   float: right;
@@ -81,12 +77,7 @@ header {
 
 .subscribe i {
   font-size: 20px;
- 
-}
 
-.subscribe i {
-  font-size: 20px;
- 
 }
 
 .sa {
@@ -102,13 +93,6 @@ header {
   color: #af995c;
 
 }
-
-
-
-.topnav {
-  padding-right: 20px;
-}
-
 
 .mainNav {
   background-color: black;
@@ -143,6 +127,10 @@ header {
   padding-left: 0;
 }
 
+/* NAV--------------------------------------------------------------------- */
+
+
+
 .hero1 img {
   width: 250px;
   margin-top: 100px;
@@ -176,6 +164,8 @@ header {
 }
 
 
+/* GRID--------------------------------------------------------------------- */
+
 
 .grid {
   display: grid;
@@ -189,7 +179,6 @@ header {
 .socialv2,
 .socialv3 {
   display: flex;
-
   max-width: 640px;
   height: 500px;
   justify-content: center;
@@ -233,7 +222,6 @@ a:hover {
   color: #625a41;
 }
 
-
 .grid2 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -255,7 +243,6 @@ a:hover {
   text-align: center;
   font-family: Museo2;
   color: white;
-
 }
 
 .cards p {
@@ -272,10 +259,7 @@ a:hover {
 }
 
 
-
-
-
-/* FOOTER */
+/* FOOTER--------------------------------------------------------------------- */
 
 footer {
   display: flex;
@@ -339,3 +323,5 @@ footer i:hover {
   max-width: 30%;
   margin-left: auto;
 }
+
+/* FOOTER--------------------------------------------------------------------- */
