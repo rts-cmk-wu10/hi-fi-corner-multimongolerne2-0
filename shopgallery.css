@@ -4,9 +4,6 @@
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
     background-color: black;
     font-family: "museo";
 }
@@ -25,6 +22,8 @@ body {
 .gallery img {
     width: 230px;
     height: 230px;
+    transition: transform .2s;
+
 }
 
 .gallery div {
@@ -38,8 +37,6 @@ body {
     font-size: 20px;
     text-align: center;
     display: grid;
-    transition: transform .2s;
-
 }
 
 .gallery span {
@@ -49,20 +46,21 @@ body {
     justify-self: center;
     align-self: center;
     text-decoration: underline;
-
+    transition: transform .5s;
+    transition: transform .5s;
 }
 
 .outlet img {
     filter: brightness(180%) opacity(0.4) drop-shadow(0 0 rgb(255, 21, 21));
 }
 
-.gallery a:hover {
+.gallery a:hover img{
     transform: scale(1.1);
-    z-index: 1;
 }
 
-.gallery a:hover img {
-    filter: opacity(1) drop-shadow(0 0 rgba(139, 106, 29, 0.767));
+.gallery a:hover span{
+    text-shadow: 1px 1px 2px rgb(255, 255, 255);
+    transform: scale(1.1);
 }
 
 .shopnow {
