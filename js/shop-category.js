@@ -37,7 +37,7 @@
                 const BRANDNAMES_UL = document.querySelector(".brandNames_ul")
                 BRANDNAMES_UL.innerHTML += `
         <li class="brandName__list">
-            <a href="http://127.0.0.1:5501/html/product-view.html?name=${product.name}">${product.name}</a>
+            <a href="http://127.0.0.1:5501/product-view.html?name=${product.name}">${product.name}</a>
         </li>
         `
             })
