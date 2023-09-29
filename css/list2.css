@@ -1,0 +1,244 @@
+@font-face {
+    font-family: Museo;
+    src: url(/museo-sans-rounded/MuseoSansRounded500.otf);
+}
+
+@font-face {
+    font-family: Museo2;
+    src: url(/museo-sans-rounded/MuseoSansRounded300.otf);
+}
+
+@font-face {
+    font-family: Museo3;
+    src: url(/museo-sans-rounded/MuseoSansRounded100.otf);
+}
+
+@font-face {
+    font-family: Museo4;
+    src: url(/museo-sans-rounded/MuseoSansRounded700.otf);
+}
+
+body{
+    font-family: "museo";
+}
+
+#wrapper{
+    padding: 0 10em 0 10em;
+    background-color: black;
+}
+
+.head2{
+    grid-area: 1 / 1 / 2 / 6;
+}
+.sideBar{
+    grid-area: 2 / 1 / 5 / 2;
+}
+
+.sideBar1, .sideBar2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #e6e6e6;
+    padding: 2rem;
+    margin-bottom: 1.5em;
+    gap: 0.8em;
+    list-style: none;
+}
+
+.side{
+margin: 1.5em;
+margin-top: 2em;
+}
+
+.sortBy{
+    padding: 10px;
+    margin-top: 1em;
+    height: 60px;
+    background-color: #e6e6e6;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid;
+    border-bottom-color: #9c9c9c68;
+    border-bottom-width: 1px;
+    border-top: solid;
+    border-top-color: #9c9c9c68;
+    border-top-width: 1px;
+}
+.choice__list{
+    grid-area: 2 / 2 / 3 / 5;
+    height: 100px;
+}
+
+.type__option, .number__option{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+select{
+    width: 60px;
+    height: 20px;
+    
+}
+
+.head2 h2{
+    font-size: 13px;
+    font-family: "museo3";
+    margin-bottom: 3em;
+}
+
+.cards__img{
+    width: 200px;
+    height: 200px;
+    border : 3px solid rgba(214, 214, 214, 0.378);
+    border-width: 1px;
+}
+
+.product__name{
+    font-size: 15px;
+}
+
+.product__cards{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    grid-area: 3 / 2 / 6 / 5;
+    position: relative;
+    margin-top: 1.5em;
+}
+
+.add__button{
+    margin: 10px;
+    padding: 5px;
+    background-color: #b0996b;
+    color: white;
+    border: none;
+    width: 110px;
+    height: 35px;
+    font-family: "museo";
+}
+
+.product{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.product__price{
+    color: #9f8249;
+    font-family: "museo2";
+}
+
+.cardcontent{
+gap: 1em;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 200px;
+}
+
+.manufacturer{
+    width: 200px;
+    border: solid whitesmoke;
+    padding: 1rem;
+    grid-area: 2 / 4 / 1 / 3;
+display: flex;
+flex-direction: column;
+}
+
+main{
+    display: grid;
+    grid-template-columns: repeat(1fr, 1fr, 1fr, 1fr, 1fr);
+    grid-template-rows: repeat(150px, 1fr, 1fr, 1fr, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    background-color: white;
+}
+
+.choice__listproduct__cards{
+    margin-top: 5em;
+}
+
+.manufacturer{
+    margin-top: 3em;
+}
+
+.manufacturer a{
+    color: black;
+    margin-left: 0.5em;
+}
+
+.manufacturer li{
+    font-size: 13px;
+    display: flex;
+    margin-bottom: 1em;
+}
+
+button:active{
+    background-color: rgb(116, 100, 65);
+}
+
+button{
+    cursor: pointer;
+
+}
+
+.manufacturer h4{
+    color: rgb(191, 166, 111);
+    margin-bottom: 0.5em;
+    font-size: 14px;
+}
+
+.choice__list h4{
+font-size: 25px;
+font-family: "museo4";
+}
+
+h2{
+    color: black;
+}
+
+.bar__list{
+    color: rgb(161, 150, 87);
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+
+.search{
+    width: 200px;
+    height: 25px;
+}
+
+.submit{
+    border: white;
+    margin-left: -17px;
+}
+
+.submit__btn{
+    width: 40px;
+    background-size: contain;
+    object-fit: contain;
+    background-color: white;
+}
+
+.manufacturer h4 a{
+    margin: 0;
+    color: rgba(142, 122, 79, 0.83);
+    font-family: "museo3";
+}
+
+.account, .cart{
+    color: white;
+    justify-content: center;
+}
+
