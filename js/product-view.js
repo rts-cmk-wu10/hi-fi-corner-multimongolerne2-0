@@ -19,6 +19,7 @@ fetch(`http://localhost:3000/products?name=${URL.get("name","manufacturer","prod
 
     .then(function (productName) {
         PRODUCT_DESCRIPTION.innerHTML = `
+        <img src="${productName[0].image}">
         <h1 class="product__header">${productName[0].name}</h1>
         <span class="product__price">${productName[0].price}</span>
         <p class="product__description">${productName[0]["product-description"]}</p>
@@ -35,5 +36,5 @@ fetch(`http://localhost:3000/products?name=${URL.get("name","manufacturer","prod
         <span class="product__color">${productName[0].details}</span>
         `
 
-        console.log(productName[0].name);
+        console.log(productName[0].image);
     })
