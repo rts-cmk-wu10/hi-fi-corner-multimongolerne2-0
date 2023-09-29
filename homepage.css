@@ -9,7 +9,10 @@
 }
 
 
-
+header {
+  position: absolute;
+  width: 100%;
+}
 
 #wrapper {
   max-width: 1920px;
@@ -21,25 +24,21 @@
   box-sizing: border-box;
 }
 
-/* NAV */
+/* NAV--------------------------------------------------------------------- */
 
 .topnav {
+  justify-content: flex-end;
+  display: flex;
   overflow: hidden;
-  background-color: #000000;
-  padding-top: 20px;
-}
+  background-color: #000000b1;
+  align-items: center;
+  height: 70px;
+  gap: 2em;
+  border-bottom: #9e8d5f2c;
+  border-style: solid;
+  border-width: 2px;
+  padding-right: 20px;
 
-.topnav i {
-  float: right;
-}
-
-.left a,
-img {
-  float: left;
-}
-
-.right {
-  float: right;
 }
 
 .topnav a {
@@ -53,7 +52,6 @@ img {
   font-family: Museo;
 }
 
-
 .topnav input[type=text] {
   float: right;
   padding: 6px;
@@ -65,25 +63,36 @@ img {
   text-transform: capitalize;
 }
 
-.topnav i {
+.subscribe {
+  display: flex;
+  gap: 15px;
+  padding: 5px;
+  background-color: rgb(75, 153, 249);
+  align-items: center;
+  border-radius: 5px;
+  border-style: none;
+  cursor: pointer;
+  color: white;
+}
+
+.subscribe i {
+  font-size: 20px;
+
+}
+
+.sa {
   font-size: 30px;
+}
+
+.topnav i {
   color: white;
   cursor: pointer;
 }
 
-.topnav i:hover {
+.sa:hover {
   color: #af995c;
 
 }
-
-.topnav i:nth-child(-n + 4) {
-  margin-left: 25px;
-}
-
-.topnav i:nth-child(-n + 2) {
-  margin-right: 20px;
-}
-
 
 .mainNav {
   background-color: black;
@@ -118,8 +127,13 @@ img {
   padding-left: 0;
 }
 
+/* NAV--------------------------------------------------------------------- */
+
+
+
 .hero1 img {
-  width: 300px;
+  width: 250px;
+  margin-top: 100px;
 }
 
 .hero1 {
@@ -132,6 +146,9 @@ img {
   font-size: 60px;
   text-align: center;
   font-family: Museo;
+  height: 740px;
+  background-repeat: no-repeat;
+  background-size: cover
 }
 
 .hero2 {
@@ -147,6 +164,8 @@ img {
 }
 
 
+/* GRID--------------------------------------------------------------------- */
+
 
 .grid {
   display: grid;
@@ -160,7 +179,6 @@ img {
 .socialv2,
 .socialv3 {
   display: flex;
-
   max-width: 640px;
   height: 500px;
   justify-content: center;
@@ -204,7 +222,6 @@ a:hover {
   color: #625a41;
 }
 
-
 .grid2 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -226,7 +243,6 @@ a:hover {
   text-align: center;
   font-family: Museo2;
   color: white;
-
 }
 
 .cards p {
@@ -243,10 +259,7 @@ a:hover {
 }
 
 
-
-
-
-/* FOOTER */
+/* FOOTER--------------------------------------------------------------------- */
 
 footer {
   display: flex;
@@ -310,3 +323,5 @@ footer i:hover {
   max-width: 30%;
   margin-left: auto;
 }
+
+/* FOOTER--------------------------------------------------------------------- */
