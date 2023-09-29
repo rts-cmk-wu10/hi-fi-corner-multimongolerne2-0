@@ -10,22 +10,39 @@ fetch(`http://localhost:3000/products`)
 
         .then(function(data) {
             
+            // finder producentens navne og sorterer dem
             const MANUFACTURER_LIST = new Set(data.map(item => item.manufacturer))
+            // laver et object
             const MANUFACTURER_UL_LIST = {}
 
+            // looper igen
             MANUFACTURER_LIST.forEach(function(manufacturerName) {
-                const UL = document.createElement('ul')
-                UL.classList.add('manufacturerName__list')
+                const LI = document.createElement('li')
+                LI.classList.add('manufacturerName__list')
 
-                UL.innerHTML = manufacturerName
+                const A_TAG = document.querySelector(".manufacturerName__list")
+                LI.innerHTML = manufacturerName
 
-                MANUFACTURER_UL_LIST[manufacturerName] = UL
+                MANUFACTURER_UL_LIST[manufacturerName] = LI
 
                 const MANUFACTURER_NAME_SECTION = document.querySelector(".manufacturerName__list")
-                MANUFACTURER_NAME_SECTION.appendChild(UL)
+                MANUFACTURER_NAME_SECTION.appendChild(LI)
             })
 
         })
+
+            // // finder producentens navne og sorterer dem
+            // const MANUFACTURER_LIST = new Set(data.map(item => item.manufacturer))
+            // // laver et object
+            // const toAppend = []
+            // data.forEach(product => {
+            //     if (!toAppend.includes(product.manufacturer)) {
+            //         console.log('in');
+            //         toAppend.push(product.manufacturer)
+            //     }
+            // })
+
+            // console.log(toAppend);
         
         
                     // const MANUFACTURER = new Set(data.map(item => item.manufacturer))
