@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Museo;
+    src: url(/museo-sans-rounded/MuseoSansRounded500.otf);
+}
+
+@font-face {
+    font-family: Museo2;
+    src: url(/museo-sans-rounded/MuseoSansRounded300.otf);
+}
+
+@font-face {
+    font-family: Museo3;
+    src: url(/museo-sans-rounded/MuseoSansRounded100.otf);
+}
+
+@font-face {
+    font-family: Museo4;
+    src: url(/museo-sans-rounded/MuseoSansRounded700.otf);
+}
+
+body{
+    background-color: black;
+    font-family: "museo";
+}
+
+.menu__icon{
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    background: black;
+    height: 50px;
+    border-bottom: solid white;
+}
+
+.menu__icon2{
+    position: sticky;
+    z-index: 999;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 1rem;
+    background: black;
+    height: 50px;
+    border-bottom: solid white;
+    display: none;
+}
+
+.menu{
+    position: sticky;
+    z-index: 999;
+    top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background: black;
+    height: 50px;
+}
+
+.menu__list:hover{
+    color: rgb(125, 125, 15);
+}
+
+li, a, .menu__list, p{
+    text-decoration: none;
+    list-style-type: none;
+    color: #a39161;
+
+}
+
+.menu__list{
+    color: white;
+}
+
+.brands__container{
+    display: flex;
+    padding: 2rem;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+    align-items: center;
+    height: 320px;
+}
+
+.hifibox{
+    width: 130px;
+    height: 130px;
+    border: 2px solid white;
+    font-size: 30px;
+}
+
+.topBrands, .hificorner{
+    color: white;
+    font-family: "museo2";
+    font-size: 30px;
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+}
+
+.hificorner img{
+    max-width: 200px;
+}
+
+.container{
+    background-image: url(brandsimgs/pic1.jpg);
+}
+
+.blackBox{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 1.8rem;
+    margin: 0 10em 0 10em;
+}
+
+.logo{
+    height: 40px;
+    width: 200px;
+    background-size: contain;
+    object-fit: contain;
+}
+
+.collab__brands, .brands{
+    background-color: black;
+    width: 50%;
+    height: 400px;
+    padding: 1.5rem;
+    
+}
+
+.collab__brands{
+    background: linear-gradient(100deg, rgba(0,0,0,1) 40%, rgb(43, 43, 43) 100%);
+}
+
+.collab__brands img{
+    margin-top: 2em;
+}
+
+.brands h1{
+    color: #86774e;
+    font-family: "museo3";
+    margin-bottom: 0.8em;
+    font-size: 30px;
+}
+
+.moreBrands h3{
+    color: #86774e;
+    text-decoration: underline;
+    font-family: "museo4";
+}
+
+.brands__p{
+    color: white;
+    margin-bottom: 2em;
+    font-family: "museo2";
+
+}
+
+.brands{
+    background-image: url(brandsimgs/pic2.jpg);
+    background-size: cover;
+}
+
+.hificorner{
+    color: white;
+}

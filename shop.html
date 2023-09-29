@@ -1,14 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/shop.css">
     <title>Shop Page</title>
 </head>
+
 <body>
-    <h1>Produkt sider</h1>
+    <h1>Produkt side</h1>
+    
+    <section class="productCategories">
+        <ul class="productCategories__cd hidden">
+        </ul>
+    </section>
+
+    <form action="product-view.html" autocomplete="off" class="searchForm">
+        <label>
+            <input type="search" name="name" list="pokemons" placeholder="search" class="searchBar">
+            <datalist id="pokemons"></datalist>
+        </label>
+        <button type="submit">Søg</button>
+    </form>
+    
+    <section class="manufacturer">
+        <h1>MANUFACTURER</h1>
+        <ul class="manufacturerName__list">
+
+        </ul>
+
+    </section>
+
     <ul class="brandNames_ul">
     </ul>
-    <script src="./shop.js" defer></script>
+    <script src="/js/shop-category.js" defer></script>
+    <script src="/js/categories.js" defer></script>
+    <script src="/js/manufacturer.js"></script>
+    <script src="/js/searchbar.js" defer></script>
 </body>
+
 </html>

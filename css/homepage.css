@@ -1,11 +1,11 @@
 @font-face {
   font-family: Museo;
-  src: url(./museo-sans-rounded/MuseoSansRounded500.otf);
+  src: url(/museo-sans-rounded/MuseoSansRounded500.otf);
 }
 
 @font-face {
   font-family: Museo2;
-  src: url(./museo-sans-rounded/MuseoSansRounded300.otf);
+  src: url(/museo-sans-rounded/MuseoSansRounded300.otf);
 }
 
 

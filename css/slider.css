@@ -64,7 +64,7 @@
 
 @font-face {
     font-family: silas;
-    src: url(./museo-sans-rounded/MuseoSansRounded300.otf);
+    src: url(/museo-sans-rounded/MuseoSansRounded300.otf);
 }
 
 .slider-container p {
